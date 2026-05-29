@@ -1,0 +1,12 @@
+{
+  "name": "pi-paper-agent",
+  "version": "0.1.0",
+  "description": "最简 tool use + 状态管理演示：搜索 arxiv 论文，综合文献结果",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./.pi/extensions/paper-agent.ts"],
+    "skills": ["./.pi/skills/paper-agent/SKILL.md"]
+  },
+  "author": "",
+  "license": "MIT"
+}
