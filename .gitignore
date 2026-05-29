@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.venv/
+
+# 密钥（不要上传）
+.env
+
+# pi 运行产生的文件
+.pi/paper-agent-state.log
+
+# IDE
+.idea/
+.vscode/
